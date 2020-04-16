@@ -1,7 +1,7 @@
 # CardsKnight
 Information page for the CardsKnight game
 
-<img src="https://lh3.googleusercontent.com/XPODm9iXcakousuxUoEvpj8SOJ1-zgZDMFoFuzHn9nrWx51K4wziuC3554kgUDHMpSg=w1440-h620-rw"/>
+<img src="https://lh3.googleusercontent.com/pbrgTe0CvBkoIbq-sskyVu6NyqGJz9JXCBf7ZK79_t2RLAt7akkyY8F5KgVa6bFCZYI=h600-rw"/>
 
 
 Please fill an issue for any question or suggestion: https://github.com/FredJul/CardsKnight/issues/new
