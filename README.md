@@ -17,3 +17,16 @@ More info on Play Store and App Store pages:
 
 ## Privacy Policy
 CardsKnight does not send any private information throught internet.
+
+## All gem combos
+Combining some gems may give you some extra power. Here is the list:
+- Explorer + Explorer: malus does not affect you, while keeping the +2 bonus
+- Rock'n Roll + Explorer: gives +1 when put on a rock slot
+- Advantage + Advantage: adds +1 to this card arrows
+- Cheerleader + Cheerleader: adds +1 to all remaining card arrows
+- Peace + Advantage: this card ignore adjacent cards's Peace gem
+- Peace + Love: this card attracts all cards, even when it has no arrow
+- Love + Rock'n Roll: this card can attract other cards through rock slots
+- Love + Cheerleader: after the fight, this card gives +1 to all ally adjacent cards
+- Void + No Void: this card will be full of arrows while adjacent ones will be emptied
+- Epidemic + Resistance: keep the advantages of the Epidemic gem without loosing power
