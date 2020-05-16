@@ -11,7 +11,7 @@ More info on Play Store and App Store pages:
 <a href="https://play.google.com/store/apps/details?id=net.frju.cards" target="_blank" class="is-slightly-elevated" rel="nofollow">
   <img src="https://itsallwidgets.com/images/google.png" style="width:180px"/>
 </a>
-<a href="https://apps.apple.com/fr/app/warmd/id1487848837" target="_blank" class="is-slightly-elevated" rel="nofollow">
+<a href="https://apps.apple.com/app/id1503972980" target="_blank" class="is-slightly-elevated" rel="nofollow">
   <img src="https://itsallwidgets.com/images/apple.png" style="width:180px"/>
 </a>
 
